@@ -1,0 +1,14 @@
+{
+	"userSpecifics": [
+		{
+			"userName": "Adam",
+			"password": "xYz1274!",
+			"genre": "sports"
+		},
+		{
+			"userName": "Joey",
+			"password": "sMile@123",
+			"genre": "music"
+		}
+	]
+}
